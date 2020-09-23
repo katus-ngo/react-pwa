@@ -1,9 +1,0 @@
-[SAN]
-basicConstraints = CA:false
-keyUsage = critical, digitalSignature, keyEncipherment
-extendedKeyUsage = serverAuth
-authorityKeyIdentifier=keyid,issuer
-
-subjectAltName=@alt_names
-basicConstraints=CA:FALSE
-[alt_names]
